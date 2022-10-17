@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "839710367624",
+    "project_id": "aulaespejo2022",
+    "storage_bucket": "aulaespejo2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839710367624:android:488c789f10e380a890243d",
+        "android_client_info": {
+          "package_name": "co.edu.ucundinamarca.compras_aula_espejo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839710367624-lkl9kmg3ej1d377l05vr07r33dvm5e1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtoCp6cu7DmwcH5xOPV8GklRItZnr2Bks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839710367624-lkl9kmg3ej1d377l05vr07r33dvm5e1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
